@@ -17,7 +17,7 @@ NCraftItem est un plugin conçu pour le jeu Nova-Life, permettant aux administra
     - **Accès au menu de gestion via AAMenu :** Tout le menu de gestion est accessible via un simple clic dans AAMenu, avec des options de configuration détaillées.
 
 ## 📖 Comment l'utiliser
-- La commande `/NCraft` (réservée aux entreprises de transports en commun) permet de lancer un trajet
+- La commande `/NCraftItem` (permission 5 minimum) permet d'ouvrir le menu de configuration des crafts.
 - Mettez-vous en service admin -> Appuyez sur la touche de ModKit (`P` par défaut) -> Cliquez sur "Administration" -> Cliquez sur "Plugins" -> Cliquez sur "NCraftItem"
 
 ## 📥 Installation
