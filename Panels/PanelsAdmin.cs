@@ -367,7 +367,7 @@ namespace NCraft.Panels
                 {
                     NCheckpoint checkpoint = new NCheckpoint(player.netId, new Vector3(point.Pos_X, point.Pos_Y, point.Pos_Z), ui2 =>
                     {
-                        PanelCraft.Craft(player, point);
+                        PanelCraft.Craft(joueur, point);
                     });
 
                     joueur.CreateCheckpoint(checkpoint);
