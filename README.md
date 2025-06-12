@@ -2,6 +2,10 @@
 # ⛏️ NCraftItem - Plugin de craft pour Nova-Life.
 NCraftItem est un plugin conçu pour le jeu Nova-Life, permettant aux administrateurs de gérer les recettes de craft, les points de craft et les ingrédients associés directement depuis le serveur. Ce plugin offre une interface complète pour créer, modifier et supprimer des recettes, gérer les points de craft et contrôler les interactions liées au craft dans le jeu.
 
+## 🌐 Plugin Open Source
+Le code de ce plugin est disponible librement dans `Fichiers`. Ainsi, vous pouvez voir ce que vous mettez sur votre serveur, aucun élément caché !
+Pour les développeurs ou apprentis développeurs, vous pouvez comprendre comment coder un plugin dans son global.
+
 ## ⭐ Fonctionnalités
 - <ins>**Gestion des recettes :**</ins>
     - **Ajouter une recette :** Permet d'ajouter de nouvelles recettes de craft, en associant un objet à une catégorie et des ingrédients.
