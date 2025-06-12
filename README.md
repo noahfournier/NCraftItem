@@ -38,3 +38,6 @@ Ce projet est sous **licence open source**. Vous pouvez consulter, modifier et u
 
 ## 📞 Contact
 Pour toute question, problème ou proposition lié au plugin, contactez-moi sur Discord : @noah_fournier.
+
+## 💸 Dons
+Si vous estimez que ce plugin mérite une rémunération, vous pouvez retrouver mon paypal ci-contre : [PayPal](https://www.paypal.com/paypalme/noahfournierpro)
